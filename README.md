@@ -1,6 +1,6 @@
 # Customer Segmentation Challenge 
 
-# Repository Structure
+## Repository Structure
 
  - customer_segmentation.ipynb - conda python 3.9 has all the codes of exploration - Background, analysis and flow of analysis is in the first cell.
  - Folder 'graph' -  all the interactive graphs are generated during exploration are present in the folder
@@ -12,7 +12,7 @@ Use the data provided in the file customer_data_sample.csv and, through the use 
 
 Converted customer is represented in the data in the field "converted", and the nature of what this conversion means is (intentionally) unknown in the context of the challenge.
 
-# Fields
+## Fields
 
 | field | explanation |
 |---|---|
