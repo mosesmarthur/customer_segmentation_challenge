@@ -1,6 +1,11 @@
 # Customer Segmentation Challenge 
 
-## Description
+# Repository Structure
+
+ customer_segmentation.ipynb - conda python 3.9 has all the codes of exploration - Background, analysis and findings are on the first cell.
+ Folder 'graph' -  all the interactive graphs are generated during exploration are present in the folder
+
+## Description of dataset
 Use the data provided in the file customer_data_sample.csv and, through the use of visualizations and/or statistics answer the question:
 
 "What are the most important factors for predicting whether a customer has converted or not?"
