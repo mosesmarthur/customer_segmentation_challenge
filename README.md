@@ -2,7 +2,7 @@
 
 # Repository Structure
 
- - customer_segmentation.ipynb - conda python 3.9 has all the codes of exploration - Background, analysis and findings are on the first cell.
+ - customer_segmentation.ipynb - conda python 3.9 has all the codes of exploration - Background, analysis and flow of analysis is in the first cell.
  - Folder 'graph' -  all the interactive graphs are generated during exploration are present in the folder
 
 ## Description of dataset
