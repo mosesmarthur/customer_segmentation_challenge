@@ -3,7 +3,7 @@
 ## Repository Structure
 
  - customer_segmentation.ipynb - conda python 3.9 has all the codes of exploration - Background, analysis and flow of analysis is in the first cell.
- - Folder 'graph' -  all the interactive graphs are generated during exploration are present in the folder
+ - Folder 'graph' -  all the interactive graphs are generated during exploration are present in the folder(download the folder for interactive graph)
 
 ## Description of dataset
 Use the data provided in the file customer_data_sample.csv and, through the use of visualizations and/or statistics answer the question:
